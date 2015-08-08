@@ -1,2 +1,2 @@
-# bengkel-git-nef-jomweb-2015
+# Latihan Bengkel Git di NEF bersama JOMWEB
 bengkel git kolaborasi nef-jomweb ogos 2015
